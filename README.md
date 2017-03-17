@@ -1,8 +1,12 @@
 ## What StudyControl is
 StudyControl incorporates main principle of the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) and takes it a step further by enforcing some of the main concepts outlined in the course ["Learning How to Learn"](https://www.coursera.org/learn/learning-how-to-learn).
 The system helps to fight procrastination and to improve discipline. The results are increase of academic grades and knowledge that lasts for long time. 
+## Notes
+*The current repo will no longer be updated. MEAN stack will be the platform for the new version
+*Taking ["Learning How to Learn"](https://www.coursera.org/learn/learning-how-to-learn) course is highly recommended prior to using the app. It will help to understand main concepts StudyControl tries to enforce.
 ## History
-In the beginning of 2013 I was hooked on the [codecademy](https://www.codecademy.com/) and at that time they really wanted you to code every day, even for a little bit. I loved it a lot. It gave me sensation of control and structure. Later that year I enrolled in business program at [BCIT](http://www.bcit.ca/) and I really wanted to perform well. I figured I could try to give my studies a bit more structure. This is where the quest begins.
+In the beginning of 2013, I was avid user of the [codecademy](https://www.codecademy.com/). At that time they ephasized on coding every day. Even if you . I loved it a lot. It gave me sensation of control and structure. 
+Later that year I enrolled in business program at [BCIT](http://www.bcit.ca/) and I really wanted to perform well. I figured I could try to give my studies a bit more structure. This is where the quest begins.
 
 First version of the system was developed in the December of 2013. This was a simple spreadsheet that looked like this: ![first_sheet](https://github.com/vicdashkov/study_control/blob/master/images/first_sheet.png)
 The idea was that every cell represents 30 minutes of studying. Study for 30 minutes. Put the name of the subject in the respective cell. Repeat.
@@ -17,5 +21,5 @@ This leads me to creation of the app.
 StudyControl enforces good practices that are not always apparent and seem to be counterintuitive(see LHTL course for more details). StudyControl helps to acquire habbits such as: interleaving; planning
 
 ## Technical inforamtion
-*NOTE: The current repo will no longer be updated. New repo will soon be created. StudyControl will be implemented with MEAN*
+*NOTE: *
 This version of the app was designated to be a simple mockup. Most of the code was written in the hasty fashion. 
