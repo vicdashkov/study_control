@@ -1,7 +1,7 @@
 # StudyControl
 ## What StudyControl is
 StudyControl is a study tool that is designed to improve academic performance. 
-StudyControl helps to fight procrastination and to improve academic discipline, makeing educational process more managable and enjoyable.
+StudyControl helps to fight procrastination and to improve academic discipline, making educational process more managable and enjoyable.
 ## Notes
 *The current repo will no longer be updated. MEAN stack will be the platform for the new version
 *Taking ["Learning How to Learn"](https://www.coursera.org/learn/learning-how-to-learn) course is highly recommended prior to using the app. 
@@ -16,7 +16,10 @@ I couldn't make spreadsheet that would be flexible enough to store correct data 
 
 Here's the [spreadsheet](https://docs.google.com/spreadsheets/d/1OyAN5yKMNYc_HySc2362zKyYhqxHhFMci4HFjhcIbG4/edit?usp=sharing) itself. This document allows to track the evolution of the system over the three years that I've been using it.
 ## How StudyControl works
-StudyControl incorporates main principles of the [Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) and takes it a step further by enforcing some of the main concepts outlined in the course ["Learning How to Learn"](https://www.coursera.org/learn/learning-how-to-learn).
-StudyControl enforces good practices that are not always apparent and seem to be counterintuitive(see LHTL course for more details) such as: interleaving; chunking; deliberate practice and planning.
-## How to use
--- gif here
+StudyControl incorporates main principles of the [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) and takes it a step further by enforcing some of the main concepts outlined in the course ["Learning How to Learn"](https://www.coursera.org/learn/learning-how-to-learn), such as: interleaving; deliberate practice and spaced repetition.
+StudyControl is a unique 
+## How to use StudyControl
+#### Registering and adding subjects
+![registering](https://github.com/vicdashkov/study_control/blob/master/images/registering.gif)
+#### Using the timer
+![timer](https://github.com/vicdashkov/study_control/blob/master/images/timer.gif)
