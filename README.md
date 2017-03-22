@@ -13,7 +13,9 @@ StudyControl helps to fight procrastination and to improve academic discipline, 
 
 ## How StudyControl works
 - StudyControl makes use of the [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) 
+
 and
+
 - StudyControl suggests or enforces some of the main concepts and techniques outlined in the course ["LHTL"](https://www.coursera.org/learn/learning-how-to-learn). 
   - Interleaving - changing subjects every 30 minutes or so. This helps to build knowledge that lasts longer.  
   - Focusing on the process and not on the result - concentrating on filling up the cells instead of concetrating on final result, like midterm project, helps with procrastination. 
@@ -27,6 +29,7 @@ Study control collects information about each session and presents it to the use
 
 Our brain strives for control and structure as was also noticed by one of the LHTL's students:
 > I have cancelled several commitments since this course has started so that I could stay home and take notes on video lectures and do my Pomodoros (on my to do list I write down the number of Pomodoros I am going to apply on each topic instead of a length of minutes or hours, I just like writing '2 pomodoros' ;) And I feel fantastic!
+
 As we can see, this student does exactly what StudyControl does, but in very oldfashioned way by making paper-based checklist.
 
 Main table consists of two columns. One column is for academic subjects and another column is for usefull non-academic things  like fiction books of podcasts. 
